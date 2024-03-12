@@ -1,0 +1,24 @@
+Nesta aula, aprenderemos como estruturar nossas metas. Seremos apresentados a um conceito bem interessante, uma
+metodologia de Peter Drucker chamada SMART.
+
+SMART é um acrônimo para Specific, Mensurable, Achivable, Relevant e Timely.
+
+A meta deve ser específica, afinal se generalizarmos demais não conseguiremos atingi-la. Dessa maneira, a meta se torna
+mensurável, atingível, relevante e possível em um tempo determinado.
+
+Usaremos novamente um exemplo culinário para ilustrar esse pensamento. Gostaríamos de ser capazes de reproduzir uma
+receita de nhoque, e isso precisa acontecer dentro do prazo de 30 dias.
+
+Perceba como se trata de uma meta específica e mensurável, atingível, possível, relevante (vamos discutir mais isso a
+seguir) e pode ser mensurada no tempo.
+
+Como podemos desenhar uma meta? No caso do nhoque, podemos mensurar pedindo que os convidados avaliem a receita, para
+verificarmos se de fato ela atingiu uma boa qualidade. Sobre a relevância desse aprendizado, é que esse prato será feito
+no aniversário da Maria, e essa receita era da avó dela. Portanto, se conseguirmos fazer essa receita em nosso encontro
+de amigos, isso será muito bom.
+
+Vamos ver algo que faça parte do universo do trabalho. Queremos construir uma funcionalidade em um sistema XPTO, por
+meio de uma nova linguagem de programação que o meu grupo de trabalho está estudando. Essa funcionalidade deve ser
+mensurável, precisa ter uma boa usabilidade, então será realizado testes com o usuário e ele nos fornecerá um feedback.
+Devemos perguntar para os colegas de trabalho se a meta de aplicar a funcionalidade é atingível, e se for, definir um
+tempo de 60 dias para que ela seja concluída.

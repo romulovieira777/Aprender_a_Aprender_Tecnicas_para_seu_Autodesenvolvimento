@@ -1,0 +1,40 @@
+Já sabemos como medir nossas evoluções, mas como podemos de fato estruturar um processo nosso com base nas métricas.
+
+Falamos sobre os blocos de informação (chuncks), fáceis de lembrar e facilmente absorvidos. Da mesma maneira que
+precisamos quebrar habilidades em sub-habilidades, tal qual em uma receita culinária:
+
+    - massa
+    - molho sugo
+    - molho bolonhesa
+    - gratinar
+
+Ao unirmos as subhabilidades, conseguiremos produzir o nhoque. Dessa maneira, podemos organizar a mensuração em pequenos
+blocos.
+
+Inseriremos as práticas de mensuração em uma matriz, mas dessa vez com a categoria "dedicação" inclusa. Pois precisamos
+estar engajados para aprendermos algo novo
+
+
+
+Podemos dividir as metas ao longo de certos dias, por exemplo: na primeira semana eu quero aprender a fazer molho sugo,
+e então dividiremos as subatividades necessárias para que a meta seja atingida.
+
+Desa maneira, a cada semana podemos fazer um balanço do que foi aprendido, e se precisarmos, modificaremos nosso plano
+de ação.
+
+Imaginemos que a Fabiana resolveu se dedicar 20h na semana para aprender uma nova lógica de programação. Fabiana ficou
+80% satisfeita, mas algo ainda estava faltando, porém os resultados foram satisfatórios.
+
+No quesito conhecimento, Fabiana conseguiu reter apenas 60% do estudado, depois de realizar um pequeno teste. Então que
+será que não funcionou tão bem? Fabiana deveria ter variado mais de modais, pois percebeu que apenas leu nessa semana.
+
+Como aprendeu pouco, os resultados não tiveram muita aplicação, mas tudo bem! Porque ela já sabe em que ponto deve
+melhorar!
+
+Dessa forma a Fabiana consegue trabalhar na semana com a construção dos chuncks de informação, e dessa maneira faz um
+balanço ao final para saber se foi produtiva, dedicada ou se necessita realizar alguma melhoria.
+
+Podemos ter mais de uma meta e mais de um plano de estudos? É interessante estudarmos mais de um assunto por vez com
+profundidade, isso faz com que o cérebro desperte novas conexões, mas tente focar em poucas coisas. Não é possível em um
+ano aprender três idiomas, ter dois empregos, começar uma nova faculdade e ainda aprender novas linguagens de
+programação, afinal isso foge do método SMART, não é alcançável!

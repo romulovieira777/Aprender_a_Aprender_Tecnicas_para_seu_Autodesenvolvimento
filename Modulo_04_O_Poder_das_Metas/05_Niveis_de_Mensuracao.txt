@@ -1,0 +1,22 @@
+Nos aprofundaremos mais no método SMART, especificamente em "M", isto é, a meta mensurável.
+
+Fabiana tem um objetivo bem específico: construir uma funcionalidade em um sistema XPTO por meio de uma nova linguagem.
+Fabiana quer garantir que essa funcionalidade realmente funcione e satisfaça as necessidades do usuário.
+
+Fabiana precisa acompanhar algumas métricas para entender se a aprendizagem dela está efetiva.
+
+    - Fabiana está satisfeita com a metodologia, horários de estudo e resultados atingidos?
+    - Consegue lembrar do que aprende?
+    - Consegue aplicar o que aprende?
+    - Estou (ou poderei em breve ) gerar resultados?
+
+Kirkpatrick é um estudioso de modelos de avaliação de aprendizado, focada em educação corporativa. Ele elaborou uma
+pirâmide avaliativa, e sua base é a satisfação.
+
+Em seguida teremos o conhecimento, se de fato adquirimos o que estudamos. Em seguida, a aplicação prática e resultado.
+
+mensurar
+
+A pirâmide revela um movimento crescente, cada vez mais nos apropriamos do que sabemos e geramos resultados práticos e
+materiais provenientes do nosso estudo.
+
